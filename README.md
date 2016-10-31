@@ -1,3 +1,11 @@
+# Leviathan
+Leviathan is a NodeJS application that allows you to execute various scripts/programs in multiple server.
+This project has been initially built for a school project to deploy 3 versions of the web application that we worked on (production, beta and develop) on 3 differents server and has worked pretty well.
+
+For now, there is no control with the **key** given in the config file, so be careful if you want to use it (feel free to add the security part if you want to !).
+
+Also, a big thanks to [Loïck](https://github.com/loick111) for his support on this project !
+
 # Documentation
 
 ## Config
