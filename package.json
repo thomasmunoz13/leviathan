@@ -1,0 +1,26 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/thomasmunoz13/ci.git"
+  },
+  "author": "Thomas Munoz, Loick Mahieux, Loris Friedel, Julian Arnaud",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thomasmunoz13/ci/issues"
+  },
+  "homepage": "https://github.com/thomasmunoz13/ci#readme",
+  "dependencies": {
+    "generate-key": "0.0.6",
+    "keypress": "^0.2.1",
+    "nconf": "^0.8.4",
+    "socket.io": "^1.4.6",
+    "socket.io-client": "^1.4.6"
+  }
+}
